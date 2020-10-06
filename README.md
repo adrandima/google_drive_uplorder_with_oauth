@@ -9,4 +9,4 @@ Steps to run
     The application is accessible at localhost:8080
     Allow google sign-in to access the application
 
-you can find the original post in this[link](https://github.com/user/repo/blob/branch/other_file.md)
+you can find the original post in this [link](https://medium.com/@munsifmusthafa03/building-a-file-upload-service-to-your-google-drive-using-oauth-2-0-d883d6d67fe8)
